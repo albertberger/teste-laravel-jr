@@ -59,9 +59,9 @@ Antes de rodar o projeto, certifique-se de que você tem os seguintes requisitos
 
 1. Obter o client_ideclient_secret :
 
-  Crie uma conta ou faça login no Desenvolvedor do Mercado Livre.
+     Crie uma conta ou faça login no Desenvolvedor do Mercado Livre.
   
-  Crie um novo aplicativo e obtenha o client_ide client_secret.
+     Crie um novo aplicativo e obtenha o client_ide client_secret.
   
 2. Configuração das variáveis : Adicione as variáveis ​​de ambiente abaixo ao seu arquivo .env:
 
